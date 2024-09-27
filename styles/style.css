@@ -48,7 +48,7 @@ header {
 
 /*Image background and Slogan*/
 #intro-container {
-    background-image: url("https://github.com/selenaschz/lab-css-spotify-clone/blob/master/images/landing.jpg?raw=true"); /*Background image*/
+    background-image: url("/images/landing.jpg"); /*Background image*/
     width: 100%;
     height: 70rem;
     background-size: cover; /*The image cover the entire container*/
